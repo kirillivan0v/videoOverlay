@@ -1,0 +1,17 @@
+.mainVideo{
+    width: 500px;
+    height: 500px;
+
+    margin-top: 200px;
+    margin-bottom: 1000px;
+}
+
+.overlayVideo{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+.overlayVideo video{
+    width: 200px;
+}
